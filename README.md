@@ -55,8 +55,8 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 Source used to compile this list include:
 
-- https://nulltx.com/top-3-shapeshift-alternatives-without-kyc-requirements
-- https://xmrguide42y34onq.onion.ly/exchanges <-- List includes others that are dark web only.
+- [https://nulltx.com/top-3-shapeshift-alternatives-without-kyc-requirements](https://nulltx.com/top-3-shapeshift-alternatives-without-kyc-requirements)
+- [https://xmrguide42y34onq.onion.ly/exchanges](https://xmrguide42y34onq.onion.ly/exchanges) <-- List includes others that are dark web only.
 
 Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/KYC-Free-Instant-Exchages), or via [e-mail](mailto://cointastical@gmail.com).
 
