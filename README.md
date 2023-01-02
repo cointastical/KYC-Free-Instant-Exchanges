@@ -36,8 +36,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 - [Unstoppable Swap](https://github.com/UnstoppableSwap/unstoppableswap-gui) [In Development, Testnet only] <-- BTC to/from XMR
 
-**Honorable mention**
-
 **Compare rates to convert**
 
 - [SwapZone](https://swapzone.io/) [For example, [LTC --> BTC](https://swapzone.io/?from=ltc&to=btc)]
