@@ -12,7 +12,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Evonax](https://www.evonax.com/)
 - [SimpleSwap](https://simpleswap.io/)
 - [Liquality](https://liquality.io/swaps)
-- [Liquiditi](https://liquiditi.io/)
 - [XChange.me](https://xchange.me/)
 - [SwapSwop](https://SwapSwop.io)
 - [Exolix](https://exolix.com/exchange)
