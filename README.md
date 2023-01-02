@@ -30,7 +30,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [FastBitcoins](https://fastbitcoins.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Buy FastBitcoins voucher using bitcoin or altcoins on BitRefill, then withdraw from FastBitcoins using Lightning network
 - [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [Atomic Swap] <-- LN BTC to/from STX, or USDA
-- [Bosphorus.Exchange](https://Bosphorus.Exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**, Atomic Swap] <-- LN BTC to/from CELO, or cUSD
 - [Liquid Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets))
 
 **Swap Tools**
