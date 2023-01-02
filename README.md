@@ -68,4 +68,4 @@ Additions, corrections, and other feedback welcome and can be submitted as an [i
 TODO:
 
 - Add Comit BTC <---> XMR Atomic Swap on Comit network https://twitter.com/comit_network/status/1398200695015174144
-- Watch Blockstream's PeerSwap protocol. https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf
+- Watch: Blockstream's PeerSwap protocol. https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf
