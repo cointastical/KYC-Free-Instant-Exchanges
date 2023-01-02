@@ -10,7 +10,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Atomex](https://atomex.me/) [**Atomic Swap**] <-- Hybrid, wallet
 - [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
-- [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/)
 - [Liquality](https://liquality.io/swap)
 - [Liquiditi](https://liquiditi.io/)
