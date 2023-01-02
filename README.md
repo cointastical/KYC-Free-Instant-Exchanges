@@ -11,7 +11,7 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
 - [SimpleSwap](https://simpleswap.io/)
-- [Liquality](https://liquality.io/swap)
+- [Liquality](https://liquality.io/swaps)
 - [Liquiditi](https://liquiditi.io/)
 - [XChange.me](https://xchange.me/)
 - [SwapSwop](https://SwapSwop.io)
