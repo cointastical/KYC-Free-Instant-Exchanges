@@ -38,8 +38,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 **Honorable mention**
 
-- [ChainMarket](https://chainmarket.etleneum.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- A Lightning to onchain swap market with batched transactions
-
 **Compare rates to convert**
 
 - [SwapZone](https://swapzone.io/) [For example, [LTC --> BTC](https://swapzone.io/?from=ltc&to=btc)]
