@@ -15,6 +15,7 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [XChange.me](https://xchange.me/)
 - [SwapSwop](https://SwapSwop.io)
 - [Exolix](https://exolix.com/exchange)
+- [Exch.](https://exch.cx)
 - [Majestic Bank](https://MajesticBank.sc) <-- On-chain BTC to/from LTC, XMR. Not available in the U.S.
 - [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available in the U.S.
