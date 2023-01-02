@@ -10,7 +10,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Atomex](https://atomex.me/) [**Atomic Swap**] <-- Hybrid, wallet
 - [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
-- [CoinSwitch.co](https://coinswitch.co/)
 - [Fox.Exchange](https://fox.exchange/)
 - [InstaEx](https://instaex.io/)
 - [SimpleSwap](https://simpleswap.io/)
