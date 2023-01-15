@@ -7,6 +7,7 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 - [MorphToken](https://morphtoken.com/) <-- Javascript not required
 - [Godex](https://godex.io/) <-- Javascript not required
+- [AtomicDEX](https://atomicdex.io/) [**Atomic Swap**]  <-- Fully decentralized and non custodial Atomic Swaps with a p2p orderbook. Supports BTC, ETH, ERC20 tokens and most of the coins that are BTC source forks. Also supports most of the EVM type networks and corresponding ERC-20 type tokens. Some other popular coins supported are LTC, QTUM, KMD, RVN, ZEC, DASH, DOGE, DGB etc., for a list of all supported coins, see [coins list](https://github.com/KomodoPlatform/coins/blob/master/coins) . Links for iOS and Android apps are available at [the Official website](https://atomicdex.io/) , Desktop GUI releases are available [here](https://github.com/KomodoPlatform/atomicDEX-Desktop/releases) , CLI releases are available [here](https://github.com/KomodoPlatform/atomicDEX-API/releases) and documentation for CLI is available [here](https://developers.atomicdex.io/). Web version (alpha release) [here](https://app.atomicdex.io/)
 - [Atomex](https://atomex.me/) [**Atomic Swap**] <-- Hybrid, wallet
 - [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
