@@ -7,7 +7,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 - [MorphToken](https://morphtoken.com/) <-- Javascript not required
 - [Godex](https://godex.io/) <-- Javascript not required
-- [Atomex](https://atomex.me/) [**Atomic Swap**] <-- Hybrid, wallet
 - [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
 - [SimpleSwap](https://simpleswap.io/)
@@ -32,6 +31,7 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [Atomic Swap] <-- LN BTC to/from STX, or USDA
 - [Liquid Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets))
+- [Atomex](https://atomex.me/pairs) [**Atomic Swap**] <-- Hybrid, wallet
 
 **Swap Tools**
 
