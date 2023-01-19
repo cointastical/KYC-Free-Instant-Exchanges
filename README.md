@@ -64,3 +64,5 @@ TODO:
 - Watch: Blockstream's PeerSwap protocol. https://blockstream.com/assets/downloads/2021-11-16-PeerSwap_Announcement.pdf
 - Watch: Serai.exchange XMR, BTC, ETH instant swaps
 - Add SideSwap.io app, which is not Bitcoin, but L-BTC (Liquid Network)
+- Add https://www.bestchange.ru/
+- Add https://alice-bob.io/en
