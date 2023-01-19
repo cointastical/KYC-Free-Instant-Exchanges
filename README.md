@@ -7,6 +7,7 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 - [MorphToken](https://morphtoken.com/) <-- Javascript not required
 - [Godex](https://godex.io/) <-- Javascript not required
+- [AtomicDEX](app.atomicdex.io)
 - [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
 - [SimpleSwap](https://simpleswap.io/)
