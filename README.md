@@ -29,8 +29,8 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC or LTC
 - [BitRefill](https://www.bitrefill.com/buy/lightning-channel) ([⚡](https://lightningnetworkstores.com/wallets))
 - [FastBitcoins](https://fastbitcoins.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Buy FastBitcoins voucher using bitcoin or altcoins on BitRefill, then withdraw from FastBitcoins using Lightning network
-- [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [Atomic Swap] <-- LN BTC to/from RBTC, SOV, or xUSD
-- [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [Atomic Swap] <-- LN BTC to/from STX, or USDA
+- [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**] <-- LN BTC to/from RBTC, SOV, or xUSD
+- [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**] <-- LN BTC to/from STX, or USDA
 - [Liquid Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Atomex](https://atomex.me/pairs) [**Atomic Swap**] <-- Hybrid, wallet
 - [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon]
