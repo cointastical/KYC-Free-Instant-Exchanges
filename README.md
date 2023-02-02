@@ -5,7 +5,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 **KYC-Free Instant Exchanges**
 
-- [MorphToken](https://morphtoken.com/) <-- Javascript not required
 - [Godex](https://godex.io/) <-- Javascript not required
 - [AtomicDEX](https://app.atomicdex.io)
 - [Bity](https://bity.com/exchange)
