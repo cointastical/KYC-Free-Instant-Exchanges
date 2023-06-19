@@ -35,7 +35,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Liquid Taxi](https://liquid.taxi/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Atomex](https://atomex.me/pairs) [**Atomic Swap**] <-- Hybrid, wallet
 - [Portico Exchange](https://porticoexchange.github.io/porticoexchangev2.github.io) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon]
-- [PulseLN](https://PulseLN.com/) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon] <-- LN BTC to/from BNB, PLS, or HEX
 
 **Swap Tools**
 
