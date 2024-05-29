@@ -7,7 +7,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 
 - [Godex](https://godex.io/) <-- Javascript not required
 - [AtomicDEX](https://app.atomicdex.io)
-- [Bity](https://bity.com/exchange)
 - [Evonax](https://www.evonax.com/)
 - [SimpleSwap](https://simpleswap.io/)
 - [Liquality](https://liquality.io/swaps)
