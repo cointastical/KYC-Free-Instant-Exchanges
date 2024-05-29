@@ -6,7 +6,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 **KYC-Free Instant Exchanges**
 
 - [Godex](https://godex.io/) <-- Javascript not required
-- [AtomicDEX](https://app.atomicdex.io)
 - [Evonax](https://www.evonax.com/)
 - [SimpleSwap](https://simpleswap.io/)
 - [Liquality](https://liquality.io/swaps)
