@@ -24,7 +24,6 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Uses "LNX" as currency symbol for bitcoin on Lightning network. Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
 - [Coin Swap](https://coinswap.click/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC, LTC, Dash, or XMR
 - [SecureShift](https://secureshift.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- High minimum trade amount when swapping from Lightning Network, and swap to Lightning Network not supported
-- [ZigZag](https://zigzag.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC, or LTC
 - [Wallet of Satoshi](https://walletofsatoshi.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Built-in onchain/offchain exchange
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC or LTC
