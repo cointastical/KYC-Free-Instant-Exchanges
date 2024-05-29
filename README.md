@@ -15,19 +15,19 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Exch.](https://exch.cx)
 - [BitcoinVN](https://bitcoinvn.io)
 - [Majestic Bank](https://MajesticBank.sc) <-- On-chain BTC to/from LTC, XMR. Not available in the U.S.
-- [Coinos](https://coinos.io) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
-- [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Not available in the U.S.
-- [Boltz](https://boltz.exchange/) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**]
-- [SideShift AI](https://sideshift.ai/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)). Not available in the U.S.
-- [Flyp.me](https://flyp.me/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Uses "LNX" as currency symbol for bitcoin on Lightning network. Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
-- [Coin Swap](https://coinswap.click/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC, LTC, Dash, or XMR
-- [SecureShift](https://secureshift.io/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- High minimum trade amount when swapping from Lightning Network, and swap to Lightning Network not supported
-- [Wallet of Satoshi](https://walletofsatoshi.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Built-in onchain/offchain exchange, not available in the U.S.
-- [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets))
-- [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC or LTC
-- [BitRefill](https://www.bitrefill.com/us/en/crypto-utils/) ([⚡](https://lightningnetworkstores.com/wallets))
-- [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**] <-- LN BTC to/from RBTC, SOV, or xUSD
-- [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**] <-- LN BTC to/from STX, or USDA
+- [Coinos](https://coinos.io) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
+- [FixedFloat.com](https://fixedfloat.com/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- Not available in the U.S.
+- [Boltz](https://boltz.exchange/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [**Atomic Swap**]
+- [SideShift AI](https://sideshift.ai/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-)). Not available in the U.S.
+- [Flyp.me](https://flyp.me/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- Uses "LNX" as currency symbol for bitcoin on Lightning network. Also supports swap to/from Liquid network ([🌊](https://help.blockstream.com/hc/en-us/articles/900000633526-Where-can-I-get-a-Liquid-wallet-))
+- [Coin Swap](https://coinswap.click/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- LN BTC to/from on-chain BTC, LTC, Dash, or XMR
+- [SecureShift](https://secureshift.io/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- High minimum trade amount when swapping from Lightning Network, and swap to Lightning Network not supported
+- [Wallet of Satoshi](https://walletofsatoshi.com/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- Built-in onchain/offchain exchange, not available in the U.S.
+- [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
+- [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- LN BTC to/from on-chain BTC or LTC
+- [BitRefill](https://www.bitrefill.com/us/en/crypto-utils/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
+- [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [**Atomic Swap**] <-- LN BTC to/from RBTC, SOV, or xUSD
+- [LNSwap](https://www.lnswap.org) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [**Atomic Swap**] <-- LN BTC to/from STX, or USDA
 - [Atomex](https://atomex.me/pairs) [**Atomic Swap**] <-- Hybrid, wallet
 
 **Swap Tools**
