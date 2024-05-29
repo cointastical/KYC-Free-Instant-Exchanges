@@ -25,7 +25,7 @@ Following is a list of Instant Exchanges (also referred to as Swap services) for
 - [Wallet of Satoshi](https://walletofsatoshi.com/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- Built-in onchain/offchain exchange, not available in the U.S.
 - [Lightning Loop client](https://github.com/lightninglabs/loop) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Submarine Swaps](http://submarineswaps.org/) ([⚡](https://lightningnetworkstores.com/wallets)) <-- LN BTC to/from on-chain BTC or LTC
-- [BitRefill](https://www.bitrefill.com/buy/lightning-channel) ([⚡](https://lightningnetworkstores.com/wallets))
+- [BitRefill](https://www.bitrefill.com/us/en/crypto-utils/) ([⚡](https://lightningnetworkstores.com/wallets))
 - [Marduk.exchange](https://www.marduk.exchange) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**] <-- LN BTC to/from RBTC, SOV, or xUSD
 - [LNSwap](https://www.lnswap.org) ([⚡](https://lightningnetworkstores.com/wallets)) [**Atomic Swap**] <-- LN BTC to/from STX, or USDA
 - [Atomex](https://atomex.me/pairs) [**Atomic Swap**] <-- Hybrid, wallet
